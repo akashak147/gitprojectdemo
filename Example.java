@@ -2,6 +2,6 @@ class Example{
 	
 	public static void main(String... args){
 		
-		System.out.println("iTS wORKING fINE");
+		System.out.println("IT'S wORKING fINE");
 		
 }}
